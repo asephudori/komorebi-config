@@ -1,3 +1,4 @@
 Komorebi on Windows 11
 
-![image](https://github.com/user-attachments/assets/c9159f55-3192-4577-b250-73928c590a99)
+![image](https://github.com/user-attachments/assets/5e6cfc4f-c792-4e9b-be7b-8430f5a74de0)
+
