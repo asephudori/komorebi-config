@@ -3,9 +3,12 @@
   "app_specific_configuration_path": "$Env:USERPROFILE/applications.yaml",
   "window_hiding_behaviour": "Cloak",
   "cross_monitor_move_behaviour": "Insert",
+
   "default_workspace_padding": 5,
   "default_container_padding": 5,
+
   "border": true,
+  "border_implementation":"Windows",
   "border_width": 1,
   "border_offset": 0,
   "border_colours": {
@@ -14,6 +17,15 @@
     "monocle": "#E1AFD1",
     "unfocused": "#987D9A"
   },
+
+  "transparency": true,
+  "transparency_alpha": 240,
+
+  "animation": {
+    "enabled": true,
+    "fps": 60
+  },
+
   "stackbar": {
     "height": 40,
     "mode": "OnStack",
@@ -57,9 +69,5 @@
         }
       ]
     }
-  ],
-
-    "animation": {
-      "enabled": false
-    }
+  ]
 }
